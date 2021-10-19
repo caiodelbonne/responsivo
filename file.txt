@@ -1,0 +1,9 @@
+align eixo vertical
+
+horizontal justify-content
+
+item especifico self 
+
+todos os item ITEM
+
+
